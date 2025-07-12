@@ -1,37 +1,60 @@
-<div align="center">
+# 👋 Welcome to PersonaOS
 
-# 🎉 Congratulations personaos! 🎉
+Hi there — I’m building **PersonaOS**, an offline-first, privacy-respecting AI assistant designed to run entirely on your own hardware.
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
-
-### 🌟 You've successfully completed the exercise! 🌟
-
-## 🚀 Share Your Success!
-
-**Show off your new skills and inspire others!**
-
-<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fpersonaos%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
-</a>
-<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fpersonaos%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
-</a>
-<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fpersonaos%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
-</a>
-
-### 🎯 What's Next?
-
-**Keep the momentum going!**
-
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/personaos/skills-introduction-to-github/issues/1)
-[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
-
-*There's no better way to learn than building things!* 🚀
-
-</div>
+I'm passionate about decentralizing AI and enabling local, voice-based assistants that are modular, extensible, and free from cloud dependency.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## 🔧 Projects
+
+### 🧠 [PersonaOS](https://github.com/PersonaOS/personaos)
+> A fully local, modular AI assistant OS.
+
+- 🎤 Speech-to-text (Whisper)
+- 🧠 Local LLMs (llama.cpp, Mistral, GPT4All)
+- 🔊 Text-to-speech (Piper/Coqui)
+- 🗃️ Memory and personality modules (in development)
+- 🤖 Optional robotics & embodiment interfaces
+
+---
+
+## 🧰 Tech I'm Using
+
+- **Python** – for scripting the AI pipeline and integration
+- **llama.cpp / Ollama** – for local language models
+- **Whisper.cpp** – for real-time, offline voice recognition
+- **Piper / Coqui TTS** – fast, high-quality local speech synthesis
+- **Git + GitHub** – for version control and collaboration
+- **Intel NUC** – my development hardware for local deployment
+
+---
+
+## 🛠️ Current Focus
+
+- Building a voice-interactive LLM pipeline
+- Designing modular components for AI OS use cases
+- Optimizing for latency on low-power machines
+- Developing memory, tool-use, and robotic extension modules
+
+---
+
+## 💡 Goals
+
+- Enable anyone to run a personal AI assistant locally
+- Prioritize privacy and user control over convenience
+- Create an open-source alternative to cloud-based AI agents
+- Support integration with real-world sensors, robots, and smart devices
+
+---
+
+## 📫 Get Involved
+
+I'm still early in the development journey and welcoming collaborators, testers, and contributors. If you believe in local-first AI and open tooling:
+
+- ⭐ Star [PersonaOS](https://github.com/PersonaOS/personaos)
+- 🐛 Open issues or ideas
+- 🤝 Fork, build, and contribute!
+
+
 
